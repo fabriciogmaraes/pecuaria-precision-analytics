@@ -1,4 +1,4 @@
-cluster_nome,total_animais,gmd_medio,ca_media,margem_media,custo_kg_medio,dias_conf_medio,valor_total
-Alta Performance,118,1.617,3.61,738.59,24.11,136.4,698406.99
-Performance Média,250,1.321,4.38,652.8,20.46,190.4,1427662.99
-Baixa Performance,132,0.925,6.38,507.87,19.47,291.2,736660.25
+cluster_nome;total_animais;gmd_medio;ca_media;margem_media;custo_kg_medio;dias_conf_medio;valor_total
+Alta Performance;118;1,617;3,61;738,59;24,11;136,4;698406,99
+Performance Média;250;1,321;4,38;652,8;20,46;190,4;1427662,99
+Baixa Performance;132;0,925;6,38;507,87;19,47;291,2;736660,25

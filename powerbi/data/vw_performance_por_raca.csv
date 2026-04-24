@@ -1,6 +1,6 @@
-raca,total_animais,gmd_medio,ca_media,margem_media,valor_medio,custo_kg_medio
-Simental,57,1.594,3.66,684.89,5801.49,23.34
-Angus,62,1.463,4.01,680.85,5796.16,23.45
-Cruzado Nelore,100,1.351,4.44,675.84,5764.96,21.45
-Nelore,199,1.208,4.95,619.24,5697.42,20.09
-Brahman,82,1.049,5.81,552.78,5639.03,19.54
+raca;total_animais;gmd_medio;ca_media;margem_media;valor_medio;custo_kg_medio
+Simental;57;1,594;3,66;684,89;5801,49;23,34
+Angus;62;1,463;4,01;680,85;5796,16;23,45
+Cruzado Nelore;100;1,351;4,44;675,84;5764,96;21,45
+Nelore;199;1,208;4,95;619,24;5697,42;20,09
+Brahman;82;1,049;5,81;552,78;5639,03;19,54

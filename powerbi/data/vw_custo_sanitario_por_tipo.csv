@@ -1,9 +1,9 @@
-tipo,produto,total_aplicacoes,custo_total_rs,custo_medio_rs
-vermifugacao,Doramectina,1495,125007.68,83.62
-vermifugacao,Ivermectina,1505,99750.31,66.28
-tratamento,Antibiótico,66,24786.0,375.55
-vacina,Brucelose,1000,21491.06,21.49
-tratamento,Anti-inflamatório,56,15837.45,282.81
-vacina,Febre Aftosa,1000,15637.5,15.64
-vacina,Raiva,1000,13349.02,13.35
-suplemento,Suplemento Mineral,59,8034.03,136.17
+tipo;produto;total_aplicacoes;custo_total_rs;custo_medio_rs
+vermifugacao;Doramectina;1495;125007,68;83,62
+vermifugacao;Ivermectina;1505;99750,31;66,28
+tratamento;Antibiótico;66;24786,0;375,55
+vacina;Brucelose;1000;21491,06;21,49
+tratamento;Anti-inflamatório;56;15837,45;282,81
+vacina;Febre Aftosa;1000;15637,5;15,64
+vacina;Raiva;1000;13349,02;13,35
+suplemento;Suplemento Mineral;59;8034,03;136,17

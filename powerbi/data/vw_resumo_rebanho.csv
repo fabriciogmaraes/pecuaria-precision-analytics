@@ -1,2 +1,2 @@
-total_animais,peso_medio_kg,arroba_media,gmd_medio,valor_total_rebanho,valor_medio_animal,margem_media,margem_total
-500,535.2,17.84,1.286,2862730.23,5725.46,634.78,317392.18
+total_animais;peso_medio_kg;arroba_media;gmd_medio;valor_total_rebanho;valor_medio_animal;margem_media;margem_total
+500;535,2;17,84;1,286;2862730,23;5725,46;634,78;317392,18
