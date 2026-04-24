@@ -1,0 +1,133 @@
+brinco,raca,lote,gmd_total,conversao_alimentar,margem_bruta_rs,custo_por_kg_ganho,dias_conf,cluster_nome
+BR0108,Brahman,1,0.681,8.37,-466.73,20.98,392,Baixa Performance
+BR0166,Brahman,5,1.075,5.3,-190.59,21.27,252,Baixa Performance
+BR0424,Nelore,8,0.978,5.83,-134.86,22.97,252,Baixa Performance
+BR0205,Brahman,8,0.864,6.6,-117.16,21.28,308,Baixa Performance
+BR0191,Brahman,10,0.892,6.39,-117.13,24.66,252,Baixa Performance
+BR0086,Brahman,2,0.758,7.52,-66.43,24.67,308,Baixa Performance
+BR0415,Nelore,5,0.66,8.64,-5.04,19.68,392,Baixa Performance
+BR0316,Brahman,5,0.443,12.88,0.34,23.82,476,Baixa Performance
+BR0340,Nelore,2,1.091,5.23,63.35,20.26,252,Baixa Performance
+BR0445,Cruzado Nelore,10,0.543,10.5,90.89,23.56,420,Baixa Performance
+BR0355,Brahman,2,0.959,5.94,114.57,21.47,280,Baixa Performance
+BR0381,Nelore,7,0.732,7.79,117.49,17.81,392,Baixa Performance
+BR0344,Nelore,9,0.966,5.9,118.12,25.87,224,Baixa Performance
+BR0481,Brahman,7,0.775,7.36,190.0,16.29,392,Baixa Performance
+BR0194,Brahman,4,0.648,8.79,206.89,19.66,392,Baixa Performance
+BR0433,Cruzado Nelore,5,0.94,6.06,217.12,22.65,252,Baixa Performance
+BR0321,Nelore,10,0.948,6.02,225.21,21.67,252,Baixa Performance
+BR0468,Nelore,9,0.704,8.1,226.37,18.08,392,Baixa Performance
+BR0444,Brahman,3,0.731,7.8,236.19,17.14,392,Baixa Performance
+BR0114,Nelore,10,0.896,6.36,268.92,21.68,280,Baixa Performance
+BR0131,Brahman,2,0.541,10.53,275.69,19.16,476,Baixa Performance
+BR0039,Brahman,7,1.053,5.41,291.85,18.6,280,Baixa Performance
+BR0256,Cruzado Nelore,2,1.028,5.54,296.01,20.76,252,Baixa Performance
+BR0213,Brahman,2,0.517,11.02,336.96,21.61,448,Baixa Performance
+BR0078,Nelore,10,0.844,6.75,341.47,17.63,336,Baixa Performance
+BR0441,Nelore,10,0.97,5.88,348.13,20.67,252,Baixa Performance
+BR0272,Brahman,8,0.728,7.83,355.59,20.65,336,Baixa Performance
+BR0447,Nelore,6,0.933,6.11,356.52,21.58,252,Baixa Performance
+BR0015,Nelore,8,0.842,6.77,363.98,17.66,336,Baixa Performance
+BR0002,Nelore,8,1.036,5.5,366.3,18.5,280,Baixa Performance
+BR0296,Nelore,9,0.954,5.97,373.33,20.81,280,Baixa Performance
+BR0216,Nelore,9,0.708,8.05,379.14,20.88,336,Baixa Performance
+BR0477,Brahman,2,1.09,5.23,387.38,18.42,252,Baixa Performance
+BR0154,Nelore,9,1.155,4.94,390.12,17.55,252,Baixa Performance
+BR0357,Brahman,7,0.755,7.55,400.17,19.57,336,Baixa Performance
+BR0448,Brahman,4,0.906,6.29,419.03,21.89,252,Baixa Performance
+BR0430,Nelore,10,0.705,8.08,423.62,21.21,336,Baixa Performance
+BR0314,Nelore,5,0.593,9.61,431.4,18.7,448,Baixa Performance
+BR0182,Brahman,5,1.127,5.06,435.51,17.53,252,Baixa Performance
+BR0258,Brahman,9,1.075,5.3,452.04,18.41,252,Baixa Performance
+BR0388,Nelore,3,0.76,7.5,453.71,19.66,336,Baixa Performance
+BR0320,Brahman,10,0.874,6.52,464.4,17.03,336,Baixa Performance
+BR0259,Nelore,3,0.758,7.52,465.01,19.45,336,Baixa Performance
+BR0391,Nelore,6,1.191,4.78,466.44,16.77,252,Baixa Performance
+BR0030,Brahman,6,0.843,6.76,468.87,17.62,336,Baixa Performance
+BR0299,Nelore,3,0.962,5.93,469.22,20.68,252,Baixa Performance
+BR0005,Nelore,7,0.97,5.87,470.22,20.53,252,Baixa Performance
+BR0083,Brahman,3,1.108,5.14,470.42,17.96,252,Baixa Performance
+BR0307,Nelore,6,1.07,5.33,470.48,18.36,252,Baixa Performance
+BR0172,Cruzado Nelore,3,1.069,5.33,474.64,18.41,252,Baixa Performance
+BR0271,Nelore,9,1.029,5.54,475.54,19.56,252,Baixa Performance
+BR0155,Nelore,8,1.046,5.45,489.91,19.04,252,Baixa Performance
+BR0160,Nelore,1,0.712,8.01,498.98,19.46,364,Baixa Performance
+BR0106,Nelore,2,1.106,5.15,502.53,17.83,252,Baixa Performance
+BR0251,Nelore,8,0.94,6.06,518.63,20.23,280,Baixa Performance
+BR0487,Nelore,8,1.009,5.65,519.02,19.73,252,Baixa Performance
+BR0227,Nelore,4,1.145,4.98,520.7,17.39,252,Baixa Performance
+BR0494,Nelore,8,1.036,5.5,521.7,19.25,252,Baixa Performance
+BR0226,Cruzado Nelore,2,0.908,6.28,524.97,22.0,252,Baixa Performance
+BR0034,Nelore,2,0.926,6.15,526.2,21.68,252,Baixa Performance
+BR0442,Brahman,7,0.816,6.98,527.08,22.33,280,Baixa Performance
+BR0244,Cruzado Nelore,2,0.715,7.97,529.43,19.65,364,Baixa Performance
+BR0242,Nelore,6,0.744,7.66,538.19,19.82,336,Baixa Performance
+BR0292,Nelore,6,1.011,5.64,540.18,19.54,252,Baixa Performance
+BR0237,Brahman,5,0.928,6.14,550.16,16.0,336,Baixa Performance
+BR0066,Brahman,6,0.879,6.48,556.41,18.49,308,Baixa Performance
+BR0459,Brahman,10,1.148,4.97,559.49,17.23,252,Baixa Performance
+BR0049,Nelore,4,1.032,5.52,565.04,19.39,252,Baixa Performance
+BR0032,Nelore,3,0.918,6.21,568.27,21.23,252,Baixa Performance
+BR0373,Brahman,8,0.995,5.73,572.68,18.96,280,Baixa Performance
+BR0385,Nelore,1,0.962,5.92,573.51,20.7,252,Baixa Performance
+BR0163,Nelore,7,1.08,5.28,576.36,18.28,252,Baixa Performance
+BR0148,Nelore,7,1.098,5.19,576.74,18.15,252,Baixa Performance
+BR0019,Nelore,5,0.93,6.13,577.51,21.62,252,Baixa Performance
+BR0115,Nelore,4,0.848,6.72,584.57,19.17,308,Baixa Performance
+BR0426,Brahman,9,1.059,5.38,586.88,18.52,252,Baixa Performance
+BR0410,Nelore,10,0.954,5.98,596.42,20.74,252,Baixa Performance
+BR0440,Cruzado Nelore,8,0.973,5.86,597.12,20.32,252,Baixa Performance
+BR0356,Nelore,7,1.102,5.17,599.82,17.95,252,Baixa Performance
+BR0326,Nelore,2,1.047,5.45,601.74,18.86,252,Baixa Performance
+BR0398,Nelore,2,1.06,5.38,603.42,18.53,252,Baixa Performance
+BR0318,Brahman,1,1.118,5.1,605.34,17.67,252,Baixa Performance
+BR0404,Brahman,7,0.87,6.55,607.89,19.12,308,Baixa Performance
+BR0102,Nelore,8,1.185,4.81,609.54,16.98,252,Baixa Performance
+BR0247,Cruzado Nelore,5,0.872,6.54,612.65,18.73,308,Baixa Performance
+BR0297,Nelore,7,1.1,5.18,623.14,17.87,252,Baixa Performance
+BR0055,Brahman,5,1.095,5.2,624.51,18.26,252,Baixa Performance
+BR0467,Nelore,3,0.942,6.05,632.45,19.1,280,Baixa Performance
+BR0239,Cruzado Nelore,7,0.714,7.98,632.47,25.08,280,Baixa Performance
+BR0162,Brahman,3,0.729,7.82,639.78,18.88,364,Baixa Performance
+BR0405,Nelore,4,0.95,6.0,642.26,19.19,280,Baixa Performance
+BR0365,Brahman,1,0.883,6.46,646.37,20.23,280,Baixa Performance
+BR0028,Nelore,9,1.058,5.39,649.63,18.65,252,Baixa Performance
+BR0137,Brahman,9,0.8,7.12,650.9,20.16,308,Baixa Performance
+BR0338,Brahman,2,1.292,4.41,656.72,17.27,224,Baixa Performance
+BR0322,Brahman,8,0.719,7.93,657.26,18.85,364,Baixa Performance
+BR0235,Brahman,10,1.102,5.17,663.08,17.87,252,Baixa Performance
+BR0070,Brahman,1,1.048,5.44,664.21,17.02,280,Baixa Performance
+BR0101,Nelore,10,1.029,5.54,665.08,19.22,252,Baixa Performance
+BR0196,Nelore,1,0.797,7.15,666.55,20.16,308,Baixa Performance
+BR0229,Brahman,8,0.983,5.8,676.43,16.41,308,Baixa Performance
+BR0308,Nelore,5,0.83,6.87,677.9,19.45,308,Baixa Performance
+BR0277,Brahman,2,0.67,8.51,680.38,20.54,364,Baixa Performance
+BR0354,Nelore,3,0.9,6.34,682.61,18.18,308,Baixa Performance
+BR0394,Nelore,4,1.07,5.33,690.79,18.27,252,Baixa Performance
+BR0375,Nelore,1,1.123,5.08,691.46,17.78,252,Baixa Performance
+BR0139,Brahman,2,0.869,6.56,696.41,20.51,280,Baixa Performance
+BR0387,Nelore,5,0.861,6.62,703.6,18.61,308,Baixa Performance
+BR0287,Nelore,2,0.892,6.39,711.74,19.96,280,Baixa Performance
+BR0007,Nelore,4,1.113,5.12,713.67,17.76,252,Baixa Performance
+BR0065,Nelore,7,1.119,5.09,723.46,17.55,252,Baixa Performance
+BR0349,Nelore,4,0.889,6.41,729.03,20.15,280,Baixa Performance
+BR0414,Nelore,3,0.851,6.7,731.18,21.12,280,Baixa Performance
+BR0026,Brahman,4,0.957,5.96,739.2,18.47,280,Baixa Performance
+BR0266,Nelore,9,0.94,6.07,742.95,19.12,280,Baixa Performance
+BR0149,Nelore,9,0.933,6.11,745.08,19.03,280,Baixa Performance
+BR0140,Nelore,10,0.909,6.27,767.34,19.62,280,Baixa Performance
+BR0203,Nelore,2,0.983,5.8,770.47,17.92,280,Baixa Performance
+BR0192,Cruzado Nelore,6,0.785,7.26,784.31,22.61,280,Baixa Performance
+BR0004,Brahman,10,0.938,6.08,786.88,18.96,280,Baixa Performance
+BR0432,Brahman,7,0.878,6.49,792.58,20.24,280,Baixa Performance
+BR0250,Nelore,4,0.945,6.03,792.71,19.08,280,Baixa Performance
+BR0431,Brahman,1,0.963,5.92,808.41,18.48,280,Baixa Performance
+BR0054,Brahman,3,1.054,5.41,810.37,16.94,280,Baixa Performance
+BR0291,Brahman,1,0.885,6.44,814.28,20.06,280,Baixa Performance
+BR0435,Brahman,9,0.874,6.52,846.48,20.29,280,Baixa Performance
+BR0056,Cruzado Nelore,3,0.828,6.89,854.3,21.46,280,Baixa Performance
+BR0120,Nelore,9,0.915,6.23,870.56,19.5,280,Baixa Performance
+BR0097,Brahman,5,1.081,5.27,910.95,16.43,280,Baixa Performance
+BR0249,Nelore,9,1.001,5.7,911.81,17.6,280,Baixa Performance
+BR0386,Brahman,4,1.065,5.35,937.01,16.58,280,Baixa Performance
+BR0058,Nelore,10,1.111,5.13,940.71,15.92,280,Baixa Performance
